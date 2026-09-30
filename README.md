@@ -156,7 +156,7 @@ Currently studying:
 # 📫 Connect with Me
 
 - LinkedIn: https://www.linkedin.com/in/kendry-montes-0340a0228/
-- Instagram: https://www.instagram.com/kendrymontes.tech/?hl=es
+- Instagram: [https://www.instagram.com/kendrymontes.tech/?hl=es](https://www.instagram.com/kendrymontestech/?hl=es)
 - Email: kendrysmotes.tech@gmail.com
 
 ---
