@@ -86,43 +86,7 @@ where I can continue learning while contributing to the security and reliability
 
 ---
 
-# 📂 Featured Projects
 
-## Python Port Scanner
-
-TCP Port Scanner built with Python.
-
-Technologies:
-
-- Python
-- Socket Programming
-- Threading
-
----
-
-## Network Scanner
-
-Network discovery tool for identifying active hosts and services.
-
----
-
-## Log Analyzer
-
-Python application for detecting suspicious authentication attempts.
-
----
-
-## AWS Security Audit
-
-Security auditing tool using AWS SDK (Boto3).
-
----
-
-## Mini SIEM
-
-Centralized log monitoring project developed with Python.
-
----
 
 # 📖 Learning Journey
 
